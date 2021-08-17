@@ -6,7 +6,7 @@ public class User {
 	private String password;
 	
 	public boolean validateUser() {
-		return false;
+		return true;
 	}
 
 }
